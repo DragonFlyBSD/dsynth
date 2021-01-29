@@ -1,0 +1,14 @@
+autom4te.cache/
+config/
+m4/
+.deps/
+src/dsynth
+*.core
+*.in
+*.o
+Makefile
+aclocal.m4
+configure
+config.status
+config.log
+libtool
