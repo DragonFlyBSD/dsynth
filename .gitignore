@@ -3,6 +3,7 @@ config/
 m4/
 .deps/
 src/dsynth
+*.orig
 *.core
 *.in
 *.o
